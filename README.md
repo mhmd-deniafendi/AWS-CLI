@@ -14,7 +14,7 @@ Sedikit Catatan tentang AWS CLI. Pada repo ini menjunkan bagaimana kita login ke
 $ aws configure
 ```
 
-![image](https://user-images.githubusercontent.com/80587939/131800406-2ee06f1e-c0b9-4412-8c74-79f1e800723c.png)
+![Uploading image.png…]()
 ### 2. Masukan Access Key ID dan Secret Access Key
 
 ### 3. Masukan command berikut untuk login menggunakan MFA
