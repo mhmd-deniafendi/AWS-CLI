@@ -6,7 +6,6 @@ Sedikit Catatan tentang AWS CLI. Pada repo ini menjunkan bagaimana kita login ke
 1. Sudah menginstall AWS CLI di windows
 2. Memiliki akun di AWS dan sudah menyimpan untuk Accesskey Id dan Secretkey Id
 3. Sudah menginstall aplikasi Authy di laptop atau handphone
-4. Buka cmd, git bash (bagi yang sudah menginstall) atau power shell pada windows.
 
 ### 1. Mennggunakan CMD di windows
 
@@ -14,7 +13,7 @@ Sedikit Catatan tentang AWS CLI. Pada repo ini menjunkan bagaimana kita login ke
 $ aws configure
 ```
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/80587939/131803089-fd3325ca-62cc-4ea0-b9a0-2e546b55bd1e.png)
 ### 2. Masukan Access Key ID dan Secret Access Key
 
 ### 3. Masukan command berikut untuk login menggunakan MFA
